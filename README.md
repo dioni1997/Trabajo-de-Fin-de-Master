@@ -1,5 +1,4 @@
-# Trabajo-de-Fin-de-Master
-Análisis predictivos mediante modelos de aprendizaje automático en el sector seguros.
+# Análisis predictivos mediante modelos de aprendizaje automático en el sector seguros.
 
 En este proyecto se ha utilizado una base de datos propia de Kaggle llamada travel insurances.csv 
 
